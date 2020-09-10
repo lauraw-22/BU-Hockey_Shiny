@@ -1,2 +1,2 @@
 # BU-Hockey_Shiny
-Visualize real time data in Siny App
+Visualize real time data in the Shiny
