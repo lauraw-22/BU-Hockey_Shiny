@@ -1,2 +1,2 @@
 # BU-Hockey_Shiny
-Visualize real time data in the Shiny
+Created a Shiny App for Hockey players real time data visualization
